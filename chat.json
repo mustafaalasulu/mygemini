@@ -3,6 +3,42 @@
     "id": "1733344801000",
     "tarih": "2025-10-04T16:40:01",
     "soru": "selam",
-    "cevap": ""
+    "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:287:13)\n    at async <anonymous>:317:30"
+  },
+  {
+    "id": "1759617697719",
+    "tarih": "2025-10-05T01:41:37",
+    "soru": "GitHub API test sorusu",
+    "cevap": "Bu bir test cevabÃÂ±dÃÂ±r. GitHub API ile baÃÂarÃÂ±yla eklendi!"
+  },
+  {
+    "id": "1759618002848",
+    "tarih": "2025-10-05T01:46:42",
+    "soru": "GitHub API test sorusu",
+    "cevap": "Bu bir test cevabÃÂ±dÃÂ±r. GitHub API ile baÃÂarÃÂ±yla eklendi!"
+  },
+  {
+    "id": "1759618253383",
+    "tarih": "2025-10-04T22:50:53",
+    "soru": "slm",
+    "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:275:13)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:8)\n    at UtilityScript.evaluate (<anonymous>:298:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  {
+    "id": "1759618303769",
+    "tarih": "2025-10-05T01:51:43",
+    "soru": "GitHub API test sorusu",
+    "cevap": "Bu bir test cevabÄ±dÄ±r. GitHub API ile baÅarÄ±yla eklendi!"
+  },
+  {
+    "id": "1759618521806",
+    "tarih": "2025-10-04T22:55:21",
+    "soru": "bak",
+    "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:275:13)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:8)\n    at UtilityScript.evaluate (<anonymous>:298:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  {
+    "id": "1759618605724",
+    "tarih": "2025-10-05T01:56:45",
+    "soru": "GitHub API test sorusu",
+    "cevap": "Bu bir test cevabıdır. GitHub API ile başarıyla eklendi!"
   }
 ]
