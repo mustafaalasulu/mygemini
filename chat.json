@@ -3,7 +3,7 @@
     "id": "1733344801000",
     "tarih": "2025-10-04T16:40:01",
     "soru": "selam",
-    "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:287:13)\n    at async <anonymous>:317:30"
+    "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:246:13)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:8)\n    at UtilityScript.evaluate (<anonymous>:298:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
   },
   {
     "id": "1759617697719",
