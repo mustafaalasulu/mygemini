@@ -21,6 +21,6 @@
     "id": "1759618253383",
     "tarih": "2025-10-04T22:50:53",
     "soru": "slm",
-    "cevap": ""
+    "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:275:13)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:8)\n    at UtilityScript.evaluate (<anonymous>:298:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
   }
 ]
