@@ -136,5 +136,11 @@
     "tarih": "2025-10-04T22:32:25",
     "soru": "naber",
     "cevap": "ERROR: Page.evaluate: Error: Metin alani bulunamadi\n    at window.sendAndWaitForResponse (<anonymous>:246:13)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:8)\n    at UtilityScript.evaluate (<anonymous>:298:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  {
+    "id": "1759617093697",
+    "tarih": "2025-10-05T01:31:33",
+    "soru": "GitHub API test sorusu",
+    "cevap": "Bu bir test cevabıdır. GitHub API ile başarıyla eklendi!"
   }
 ]
