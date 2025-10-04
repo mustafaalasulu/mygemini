@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Directory listing for /geminidev/</title>
+</head>
+<body>
+<h1>Directory listing for /geminidev/</h1>
+<hr>
+<ul>
+<li><a href=".vscode/">.vscode/</a></li>
+<li><a href="200">200</a></li>
+<li><a href="__pycache__/">__pycache__/</a></li>
+<li><a href="chat.html">chat.html</a></li>
+<li><a href="chat.json">chat.json</a></li>
+<li><a href="chat_server.py">chat_server.py</a></li>
+<li><a href="chrome_automation_profile/">chrome_automation_profile/</a></li>
+<li><a href="gemini%20msj%20yaz%20ve%20cevap%20al.js">gemini msj yaz ve cevap al.js</a></li>
+<li><a href="Google%20AI%20Studio.html">Google AI Studio.html</a></li>
+<li><a href="Google%20AI%20Studio_files/">Google AI Studio_files/</a></li>
+<li><a href="run%20-%20Kopya.py">run - Kopya.py</a></li>
+<li><a href="run.py">run.py</a></li>
+<li><a href="venv/">venv/</a></li>
+</ul>
+<hr>
+</body>
+</html>
