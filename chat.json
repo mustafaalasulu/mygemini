@@ -1192,5 +1192,11 @@
     "tarih": "2025-10-05T18:25:10",
     "soru": "GitHub API test sorusu",
     "cevap": "Bu bir test cevabıdır. GitHub API ile başarıyla eklendi!"
+  },
+  {
+    "id": "1759678213730",
+    "tarih": "2025-10-05T18:30:13",
+    "soru": "GitHub API test sorusu",
+    "cevap": "Bu bir test cevabıdır. GitHub API ile başarıyla eklendi!"
   }
 ]
